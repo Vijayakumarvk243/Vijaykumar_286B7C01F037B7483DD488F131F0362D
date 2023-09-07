@@ -1,4 +1,4 @@
-
+ #1.1 Implement a recursive function ti calculate he factorial of a given number
 
 
 def fact_rec(n):
